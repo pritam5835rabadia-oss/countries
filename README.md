@@ -1,2 +1,2 @@
 # countries
-A country is a distinct geographical and political entity, often a sovereign state with a defined territory, permanent population, and a government. Countries possess their own unique cultures, histories, and national identities, and they interact with one another through diplomacy, trade, and other international relations.
+People travel to countries like France, Spain, and the United States for their rich history, diverse landscapes, and iconic cities. Italy and Greece are popular for ancient ruins and beautiful coastlines. Meanwhile, Mexico and Thailand draw visitors with their vibrant cultures, delicious food, and stunning beaches.
